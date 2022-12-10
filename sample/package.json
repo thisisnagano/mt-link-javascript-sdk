@@ -21,6 +21,6 @@
   },
   "dependencies": {
     "@moneytree/mt-link-javascript-sdk": "file:../",
-    "qs": "^6.7.0"
+    "qs": "^6.9.7"
   }
 }
